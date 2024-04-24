@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "author": "sekinat",
+      "title": "edfgh",
+      "content": "Retry",
+      "id": 6
+    },
+    {
+      "author": "sekinat",
+      "title": "sekinat",
+      "content": "i'm a girl",
+      "id": 7
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
